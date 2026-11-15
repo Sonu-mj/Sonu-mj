@@ -42,9 +42,3 @@ FactoryPulse and DairyChain use synthetic data, stated in each repo. RetailIQ is
 
 - Portfolio: https://sonu-mj.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/jadhav-srinivas
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonu-mj/Sonu-mj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonu-mj/Sonu-mj/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sonu-mj/Sonu-mj/output/github-snake.svg" />
-</picture>
