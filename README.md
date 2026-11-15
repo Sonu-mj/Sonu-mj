@@ -1,3 +1,10 @@
+![Srinivas Jadhav - Data that decides](assets/banner.svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Srinivas%20Jadhav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhav-srinivas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sonu--mj.github.io-2dd4bf?style=flat-square&logo=githubpages&logoColor=white)](https://sonu-mj.github.io/portfolio/)
+[![Open to internships](https://img.shields.io/badge/Open%20to-Data%20internships-38bdf8?style=flat-square)](https://www.linkedin.com/in/jadhav-srinivas)
+![Profile views](https://komarev.com/ghpvc/?username=Sonu-mj&style=flat-square&color=2dd4bf)
+
 # Hi, I'm Srinivas Jadhav
 
 B.E. Data Science student in Bengaluru. My lane is data that decides: BI, data engineering and decision systems. I build things that show where money leaks, what to do about it, and whether the decision was right.
@@ -13,9 +20,18 @@ B.E. Data Science student in Bengaluru. My lane is data that decides: BI, data e
 
 FactoryPulse and DairyChain use synthetic data, stated in each repo. RetailIQ is live at https://retailiq-jade.vercel.app
 
-## Skills
+## Tech stack
 
-Python, SQL, Pandas, NumPy, scikit-learn, Statistics, Power BI, Excel, PostgreSQL, Streamlit, FastAPI
+[![My skills](https://skillicons.dev/icons?i=py,postgres,mysql,sklearn,pandas,numpy,fastapi,streamlit,js,html,css,git,github,vscode,supabase)](https://skillicons.dev)
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-8b949e?style=flat-square)
+
+## GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-mj&show_icons=true&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonu-mj&layout=compact&hide_border=true)
 
 ## Now
 
@@ -27,4 +43,8 @@ Python, SQL, Pandas, NumPy, scikit-learn, Statistics, Power BI, Excel, PostgreSQ
 - Portfolio: https://sonu-mj.github.io/portfolio/
 - LinkedIn: https://www.linkedin.com/in/jadhav-srinivas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonu-mj&show_icons=true&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sonu-mj/Sonu-mj/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sonu-mj/Sonu-mj/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Sonu-mj/Sonu-mj/output/github-snake.svg" />
+</picture>
